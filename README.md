@@ -1,6 +1,6 @@
 # Form Validasyonu
 
-React kütüphanesi kullanarak oluşturduğum form çalışmasında [formik.org](https://formik.org/) ve [yup.js](https://github.com/jquense/yup) yapılarını
+React kullanarak oluşturduğum form validasyon sayfasında [formik.org](https://formik.org/) ve [yup.js](https://github.com/jquense/yup) yapılarını
 kullanarak validasyon işlemlerini kolaylıkla sağlayabildim.
 
 Hata durumları;
